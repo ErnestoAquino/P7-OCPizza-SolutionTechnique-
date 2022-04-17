@@ -12,4 +12,4 @@
     - de proposer un aide mémoire aux pizzaiolos indiquant la recette de chaque pizza
 - d’informer ou notifier les clients sur l’état de leur commande
 
-**Projet 6 Formation Développeur d'application - iOS**
+**Projet 7 Formation Développeur d'application - iOS**
